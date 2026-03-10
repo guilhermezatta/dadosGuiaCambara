@@ -10,11 +10,7 @@
           "Parque",
           "Trilha",
           "Mirante",
-          "Oi",
-          "tchau",
-          "hello",
-          "mamãe",
-          "falei"
+          "Gui"
         ],
         "whatsapp": "",
         "instagram": "",
@@ -24,7 +20,7 @@
         "subcategoria": "Cânions",
         "manha": "08h às 12h",
         "tarde": "13h às 17h",
-        "horario": "Manhã: 08h às 12h | Tarde: 13h às 17h",
+        "horario": "ManhÃ£: 08h às 12h | Tarde: 13h às 17h",
         "preco": "Entrada: R$ 94 (inteira) / R$ 47 (meia)",
         "faq_url": "https://canionsverdes.urbiapass.com.br/perguntas-frequentes",
         "_dyn": true
@@ -338,11 +334,6 @@
       "id": "evento_1772259954701",
       "titulo": "Semana Farroupilha",
       "data": "12/12/2026"
-    },
-    {
-      "id": "evento_1772556951203",
-      "titulo": "Festa do Mel",
-      "data": "01/09/2026"
     }
   ],
   "referencias_links": [
@@ -361,5 +352,43 @@
       "titulo": "Prefeitura",
       "url": "https://www.cambaradosul.rs.gov.br/pt"
     }
-  ]
+  ],
+  "vias_acesso": [
+    {
+      "id": "rs-020-sul-porto-alegre",
+      "nome": "RS-020 Sul (Porto Alegre)",
+      "tags": []
+    },
+    {
+      "id": "rs-020-leste-litoral",
+      "nome": "RS-020 Leste (BR-101 / Litoral)",
+      "tags": []
+    },
+    {
+      "id": "rs-453-rota-do-sol",
+      "nome": "RS-453 Rota do Sol",
+      "tags": []
+    },
+    {
+      "id": "rs-427-aparados",
+      "nome": "RS-427 (Aparados)",
+      "tags": []
+    },
+    {
+      "id": "sc-290-serra-do-faxinal",
+      "nome": "SC-290 / Serra do Faxinal",
+      "tags": []
+    },
+    {
+      "id": "rs-486-leste",
+      "nome": "RS-486 Leste",
+      "tags": []
+    },
+    {
+      "id": "rs-020-norte-ausentes",
+      "nome": "RS-020 Norte (Sao Jose dos Ausentes)",
+      "tags": []
+    }
+  ],
+  "vias_condicoes": []
 }
