@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "updated_at": "2026-03-11T19:32:27Z",
+  "version": 17,
+  "updated_at": "2026-03-11T19:34:29Z",
   "categorias": {
     "canions": [
       {
@@ -102,7 +102,7 @@
     }
   ],
   "app": {
-    "status": "inativo",
+    "status": "ativo",
     "mensagem": "Sistema em manutencao. Tente novamente mais tarde."
   },
   "eventos": [
