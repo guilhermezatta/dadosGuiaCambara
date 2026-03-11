@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "updated_at": "2026-03-11T19:28:16Z",
+  "version": 14,
+  "updated_at": "2026-03-11T19:28:49Z",
   "categorias": {
     "canions": [
       {
@@ -34,6 +34,9 @@
     "inicio_banners": [
       {
         "src": "Semana Farroupilha I"
+      },
+      {
+        "src": "Serra Geral.jpg"
       }
     ],
     "galeria_hero": [],
