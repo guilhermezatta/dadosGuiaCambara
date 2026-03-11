@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updated_at": "2026-03-11T19:24:38Z",
+  "version": 7,
+  "updated_at": "2026-03-11T19:24:48Z",
   "categorias": {
     "canions": [
       {
@@ -69,7 +69,9 @@
     {
       "id": "rs-020-leste-litoral",
       "nome": "RS-020 Leste (BR-101 / Litoral)",
-      "tags": []
+      "tags": [
+        "asfalto"
+      ]
     }
   ],
   "vias_condicoes": [],
