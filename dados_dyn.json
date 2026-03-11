@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "updated_at": "2026-03-11T21:40:49Z",
+  "version": 26,
+  "updated_at": "2026-03-11T22:01:41Z",
   "categorias": {
     "canions": [
       {
@@ -74,13 +74,6 @@
       "nome": "RS-020 Leste (BR-101 / Litoral)",
       "tags": [
         "asfalto"
-      ]
-    },
-    {
-      "id": "rs-020-sul-porto-alegre",
-      "nome": "RS-020 Sul (Porto Alegre)",
-      "tags": [
-        "serra"
       ]
     }
   ],
