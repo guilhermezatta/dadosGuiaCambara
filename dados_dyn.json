@@ -1,6 +1,6 @@
 {
   "version": 19,
-  "updated_at": "2026-03-11T21:30:56Z",
+  "updated_at": "2026-03-11T21:34:32Z",
   "categorias": {
     "canions": [
       {
@@ -15,7 +15,7 @@
         "foto": "canions.jpg",
         "manha": "08h as 12h",
         "tarde": "12h as 16h",
-        "horario": "Manha: 08h as 12h | Tarde: 12h as 16h | Noite: ",
+        "horario": "Manha: 08h as 12h | Tarde: 12h as 16h",
         "preco": "R$60 - R$110",
         "_dyn": true,
         "noite": "Fechado"
