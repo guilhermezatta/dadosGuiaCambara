@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updated_at": "2026-03-11T19:24:48Z",
+  "version": 8,
+  "updated_at": "2026-03-11T19:24:56Z",
   "categorias": {
     "canions": [
       {
@@ -37,11 +37,6 @@
   },
   "vias_acesso": [
     {
-      "id": "rs-020-sul-porto-alegre",
-      "nome": "RS-020 Sul (Porto Alegre)",
-      "tags": []
-    },
-    {
       "id": "rs-453-rota-do-sol",
       "nome": "RS-453 Rota do Sol",
       "tags": []
@@ -71,6 +66,13 @@
       "nome": "RS-020 Leste (BR-101 / Litoral)",
       "tags": [
         "asfalto"
+      ]
+    },
+    {
+      "id": "rs-020-sul-porto-alegre",
+      "nome": "RS-020 Sul (Porto Alegre)",
+      "tags": [
+        "serra"
       ]
     }
   ],
