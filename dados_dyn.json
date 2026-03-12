@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "categorias": {
     "canions": [
       {
@@ -620,20 +620,20 @@
   ],
   "vias_condicoes": [
     {
-      "id": "condicao_rs-453-rota-do-sol",
-      "via_id": "rs-453-rota-do-sol",
-      "via": "RS-453 Rota do Sol",
-      "status": "atencao",
-      "observacao": "Muita Neblina",
-      "atualizado_em": "11/03/2026 16:27"
-    },
-    {
       "id": "condicao_rs-427-aparados",
       "via_id": "rs-427-aparados",
       "via": "RS-427 (Aparados)",
       "status": "obras",
       "observacao": "Pavimentacao",
       "atualizado_em": "11/03/2026 16:27"
+    },
+    {
+      "id": "condicao_rs-453-rota-do-sol",
+      "via_id": "rs-020-norte-ausentes",
+      "via": "RS-020 Norte (Sao Jose dos Ausentes)",
+      "status": "bloqueada",
+      "observacao": "Muita Neblina",
+      "atualizado_em": "12/03/2026 01:35"
     }
   ],
   "app": {
