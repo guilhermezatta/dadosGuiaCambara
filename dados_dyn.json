@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "categorias": {
     "canions": [
       {
@@ -491,10 +491,7 @@
     ],
     "inicio_banners": [
       {
-        "src": "Semana Farroupilha I"
-      },
-      {
-        "src": "Serra Geral.jpg"
+        "src": "bannerpadrao"
       }
     ],
     "galeria_hero": [],
