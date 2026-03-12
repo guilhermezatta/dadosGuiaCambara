@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "categorias": {
     "canions": [
       {
@@ -634,6 +634,14 @@
       "status": "bloqueada",
       "observacao": "Muita Neblina",
       "atualizado_em": "12/03/2026 01:35"
+    },
+    {
+      "id": "condicao_rs-486-leste",
+      "via_id": "rs-486-leste",
+      "via": "RS-486 Leste",
+      "status": "lenta",
+      "observacao": "Mais Atenção",
+      "atualizado_em": "12/03/2026 01:36"
     }
   ],
   "app": {
