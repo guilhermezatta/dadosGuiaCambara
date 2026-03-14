@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "categorias": {
     "canions": [
       {
@@ -620,14 +620,6 @@
   ],
   "vias_condicoes": [
     {
-      "id": "condicao_rs-453-rota-do-sol",
-      "via_id": "rs-020-norte-ausentes",
-      "via": "RS-020 Norte (Sao Jose dos Ausentes)",
-      "status": "bloqueada",
-      "observacao": "Muita Neblina",
-      "atualizado_em": "12/03/2026 01:35"
-    },
-    {
       "id": "condicao_rs-486-leste",
       "via_id": "rs-486-leste",
       "via": "RS-486 Leste",
@@ -642,6 +634,14 @@
       "status": "bloqueada",
       "observacao": "bloqueada por motivos maiores",
       "atualizado_em": "14/03/2026 05:18"
+    },
+    {
+      "id": "condicao_rs-453-rota-do-sol",
+      "via_id": "sc-290-serra-do-faxinal",
+      "via": "SC-290 / Serra do Faxinal",
+      "status": "atencao",
+      "observacao": "oiiiie turista",
+      "atualizado_em": "14/03/2026 05:25"
     }
   ],
   "app": {
